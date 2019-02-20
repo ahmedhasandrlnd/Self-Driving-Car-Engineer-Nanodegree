@@ -181,7 +181,7 @@ plt.imshow(edges, cmap='Greys_r')
 	> The algorithm will first detect strong edge (strong gradient) pixels above the high_threshold, and reject pixels below the low_threshold. Next, pixels with values between the low_threshold and high_threshold will be included as long as they are connected to strong edges. The output edges is a binary image with white pixels tracing out the detected edges and black everywhere else.
 1. Quiz: Canny Edges
 	> I chose a kernelSize of 5 for Gaussian smoothing, a lowThreshold of 50 and a highThreshold of 150.
-1. [Hough Transform](https://www.youtube.com/watch?v=JFwj5UtKmPY) [sine Hough](https://www.youtube.com/watch?time_continue=3&v=XQf7FOhwOVk)https://www.youtube.com/watch?time_continue=3&v=XQf7FOhwOVk
+1. [Hough Transform](https://www.youtube.com/watch?v=JFwj5UtKmPY) [sine Hough](https://www.youtube.com/watch?time_continue=3&v=XQf7FOhwOVk)
 	* [Quiz1](images/quiz14_1.png)
 	* [Quiz2](images/quiz14_2.png)
 	* [Quiz3](images/quiz14_3.png)
