@@ -8,6 +8,7 @@ In this term, you'll first become an expert in applying Computer Vision and Deep
 1. Lesson: [Get help from peers and mentors](Help)
 1. Lesson: [Get help with your account](Account)
 1. Lesson: [Workspaces](Workspaces)
+1. Lesson: [Computer Vision Fundmentals](Vision)
 
 
 Next, you'll learn Sensor Fusion, or how to use an array of sensor data to perceive the environment around the vehicle.
