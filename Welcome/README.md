@@ -22,4 +22,4 @@
 	* [Quiz1](images/quiz_1.png)
 	* [Quiz2](images/quiz_2.png)
 1. C++ Readiness
-	* Free Course [C++ For Programmers]https://classroom.udacity.com/courses/ud210)
+	* Free Course [C++ For Programmers](https://classroom.udacity.com/courses/ud210)
