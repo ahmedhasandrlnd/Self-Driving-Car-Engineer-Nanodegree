@@ -1,4 +1,4 @@
-# WGet help from Peers and Mentors
+# Get help from Peers and Mentors
 
 ## Concepts
 1. What it takes
