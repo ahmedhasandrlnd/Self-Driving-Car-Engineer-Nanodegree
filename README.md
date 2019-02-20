@@ -4,6 +4,9 @@
 ### Computer Vision, Deep Learning, and Sensor Fusion
 In this term, you'll first become an expert in applying Computer Vision and Deep Learning on automotive problems. You will teach the car to detect lane lines, predict steering angle, and more all based on just camera data!
 
+1. Lesson: [Welcome](Welcome)
+
+
 Next, you'll learn Sensor Fusion, or how to use an array of sensor data to perceive the environment around the vehicle.
 
 1. Project: Finding Lane Lines
