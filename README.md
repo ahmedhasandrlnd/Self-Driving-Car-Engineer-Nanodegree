@@ -12,6 +12,7 @@ In this term, you'll first become an expert in applying Computer Vision and Deep
 1. Project: [Finding Lane Lines](Lanes)
 1. Lesson: [Camera Calibration](Camera)
 1. Project: [Advanced Lane Finding](Advanced)
+1. Project: [Traffic sign classifier](Traffic)
 
 
 Next, you'll learn Sensor Fusion, or how to use an array of sensor data to perceive the environment around the vehicle.
