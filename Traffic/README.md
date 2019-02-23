@@ -1,7 +1,7 @@
 # Traffic Sign Classifier
 
 ## Concepts
-1. [https://review.udacity.com/#!/rubrics/1966/view](https://www.youtube.com/watch?time_continue=1&v=TgRhLmHRvfE)
+1. [Starting with Neural Networks](https://www.youtube.com/watch?time_continue=1&v=TgRhLmHRvfE)
 1. [Intro to Traffic Sign Classifier](https://www.youtube.com/watch?v=7pULs5sC_7A)
 1. Project Instructions
 	> Traffic Sign Classifier Project
@@ -23,3 +23,15 @@
 
 	> * [Follow the Udacity instructions](https://classroom.udacity.com/nanodegrees/nd013/parts/edf28735-efc1-4b99-8fbb-ba9c432239c8/modules/6b6c37bc-13a5-47c7-88ed-eb1fce9789a0/lessons/f035a45d-6203-4947-8175-6095862204d3/concepts/f6fccba8-0009-4d05-9356-fae428b6efb4) to launch an EC2 GPU instance with the udacity-carnd AMI.
 	> * Complete the Setup instructions.
+
+	> _Start the Project_
+	1. [Download the dataset](https://s3-us-west-1.amazonaws.com/udacity-selfdrivingcar/traffic-signs-data.zip). This is a pickled dataset in which we've already resized the images to 32x32.
+	1. Clone the project and start the notebook.
+	```
+	git clone https://github.com/udacity/CarND-Traffic-Sign-Classifier-Project
+	cd CarND-Traffic-Sign-Classifier-Project
+	```
+	1. Launch the Jupyter notebook: jupyter notebook Traffic_Sign_Classifier.ipynb
+	1. Check out the [project rubric](https://review.udacity.com/#!/rubrics/481/view)
+	1. Follow the instructions in the notebook
+	1. Write your project report
